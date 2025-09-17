@@ -1,1 +1,1 @@
-Init
+Great Expectations (GX) is an open-source framework that has become popular for managing and automating data validation in modern data pipelines. Its Python-based framework is designed to help data teams guarantee the quality and consistency of their data. I am experimenting with it as an ongoing learning I am doing with ML and DS before the formal Machine Learning and Data Mining Course I will take in the Winter Semester
